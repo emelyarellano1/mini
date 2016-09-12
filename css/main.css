@@ -1,0 +1,90 @@
+/* Inserte su codigo aqui */
+
+
+
+ul{
+	
+	margin-top:40px;
+	margin-left:750px;
+}
+li {
+
+  
+  display:table-cell; 
+}
+
+li a{
+    
+    font-size:20px;
+    color:#fff;
+    margin:5px;
+	text-decoration:none;	
+}
+
+button{
+    
+    color:#fff;
+    width:100px;
+    height:40px;
+    font-size:20px;
+    margin-top:40px;
+    margin-left:50px;
+	background-color:#0DE3D8; 
+	border-radius:10px 10px;
+	
+}
+
+.fondo-1{
+	height:600px;
+	background-image: url(../img/Wallpapers.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.tex1 {
+
+    margin-top:120px;
+	margin-left:360px;
+	font-size:35px;
+    text-align: center;
+	position: absolute;
+    color:#fff;
+}
+.tex2 {
+
+    margin-top:165px;
+	margin-left:420px;
+	font-size:25px;
+    text-align: center;
+	position: absolute;
+	color:#fff;
+
+}
+
+div .avatar{
+	height: 120px;
+    width: 120px;
+    background-repeat: no-repeat;
+    background-position: 60%;
+    border-radius: 60%;
+    border: 3px solid #2ECCFA;
+    background-size: 100% auto;
+    float: left;
+    padding:5px;
+     margin-top:185px;
+	margin-left:400px;
+    
+}
+
+.cuadro-contenerdor{
+    margin:30px;
+}
+.cuadro-contenerdor2{
+    margin:30px;
+}
+
+footer {
+
+	width:100%;
+    float:left;
+	background-color:#424242;
+}
